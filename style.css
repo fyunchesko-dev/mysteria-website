@@ -11,6 +11,13 @@ body {
     font-family: Arial, sans-serif;
 }
 
+.logo {
+    width: 180px;
+    height: 180px;
+    object-fit: contain;
+    margin-bottom: 20px;
+}
+
 .container {
     height: 100vh;
     display: flex;
@@ -52,10 +59,4 @@ p {
 .button:hover {
     transform: scale(1.05);
     background: #374151;
-}
-.logo {
-    width: 180px;
-    height: 180px;
-    object-fit: contain;
-    margin-bottom: 20px;
 }
