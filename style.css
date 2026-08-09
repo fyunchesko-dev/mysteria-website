@@ -64,8 +64,8 @@ p {
 }
 
 .discord-button img {
-    width: 175px;
-    height: 175px;
+    width: 135px;
+    height: 135px;
     object-fit: contain;
     display: block;
 }
