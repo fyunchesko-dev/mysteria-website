@@ -53,3 +53,9 @@ p {
     transform: scale(1.05);
     background: #374151;
 }
+.logo {
+    width: 180px;
+    height: 180px;
+    object-fit: contain;
+    margin-bottom: 20px;
+}
