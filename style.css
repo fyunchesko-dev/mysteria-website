@@ -57,3 +57,17 @@ p {
     background: rgba(55, 25, 65, 0.95);
     border-color: #e2c878;
 }
+.discord-button {
+    display: block;
+    transition: transform 0.3s;
+}
+
+.discord-button img {
+    width: 320px;
+    height: auto;
+    display: block;
+}
+
+.discord-button:hover {
+    transform: scale(1.05);
+}
