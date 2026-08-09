@@ -42,21 +42,18 @@ p {
     width: 320px;
     padding: 20px;
     margin: 10px;
-
     text-align: center;
     text-decoration: none;
-
-    color: white;
-    background: #1f2937;
-
+    color: #f3ead7;
+    background: rgba(25, 15, 32, 0.88);
     border: 2px solid #c8ab63;
     border-radius: 15px;
-
     font-size: 20px;
     transition: 0.3s;
 }
 
 .button:hover {
     transform: scale(1.05);
-    background: #374151;
+    background: rgba(55, 25, 65, 0.95);
+    border-color: #e2c878;
 }
